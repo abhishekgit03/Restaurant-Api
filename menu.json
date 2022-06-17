@@ -1,0 +1,277 @@
+[
+    {
+        "id": "1",
+        "category": "Pizza",
+        "menus": [
+            {
+                "name": "Marigarita Pizza",
+                "price": "329"
+            },
+            {
+                "name": "Italian Farmhouse Pizza",
+                "price": "399"
+            },
+            {
+                "name": "Rustica Pizza",
+                "price": "399"
+            },
+            {
+                "name": "Mushroom Pizza",
+                "price": "399"
+            },
+            {
+                "name": "Tandoori Paneer Pizza",
+                "price": "399"
+            },
+            {
+                "name": "Spicy Tandoori Chicken Pizza",
+                "price": "429"
+            }
+        ]
+        
+    },
+    {
+        "id": "2",
+        "category": "Pasta",
+        "menus": [
+            {
+                "name": "Veg white sauce pasta",
+                "price": "259"
+            },
+            {
+                "name": "Pomodoro Pasta",
+                "price": "269"
+            },
+            {
+                "name": "Cheese Sauce pasta",
+                "price": "279"
+            },
+            {
+                "name": "Creamy Pesto Pasta",
+                "price": "289"
+            },
+            {
+                "name": "Chicken Alfero pasta",
+                "price": "299"
+            }
+        
+        ]
+        
+    },
+    {
+        "id": "3",
+        "category": "Burger",
+        "menus": [
+            {
+                "name": "Crispy chicken burger",
+                "price": "229"
+            },
+            {
+                "name": "Chicken sausage and egg burger",
+                "price": "259"
+            },
+            {
+                "name": "Aloo tikki and cheese burger",
+                "price": "150"
+            },
+            {
+                "name": "Peri Peri paneer burger",
+                "price": "229"
+            },
+            {
+                "name": "Wild mushroom and American cheddar cheese burger",
+                "price": "249"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Sandwich",
+        "menus": [
+            {
+                "name": "Vegetable Sandwich",
+                "price": "50"
+            },
+            {
+                "name": "Chicken sandwich",
+                "price": "100"
+            },
+            {
+                "name": "Chicken Salami Sandwich",
+                "price": "150"
+            },
+            {
+                "name": "Chicken sausage sandwich",
+                "price": "50"
+            },
+            {
+                "name": "Bread omlet sandwich",
+                "price": "100"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Starter",
+        "menus": [
+            {
+                "name": "Cheese Garlic bread",
+                "price": "50"
+            },
+            {
+                "name": "Tempura Fried babycorn",
+                "price": "100"
+            },
+            {
+                "name": "Mushroom Aglio olio",
+                "price": "150"
+            },
+            {
+                "name": "Prawns aglio olio",
+                "price": "50"
+            },
+            {
+                "name": "Chicken Espetada",
+                "price": "100"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Snacks",
+        "menus": [
+            {
+                "name": "Jalapeno Cheese bombs",
+                "price": "155"
+            },
+            {
+                "name": "Chicken popcorn",
+                "price": "229"
+            },
+            {
+                "name": "Peri peri french fries",
+                "price": "155"
+            },
+            {
+                "name": "Chicken fingers",
+                "price": "229"
+            },
+            {
+                "name": "Fish fingers",
+                "price": "229"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Rolls",
+        "menus": [
+            {
+                "name": "Spicy peri peri paneer roll",
+                "price": "149"
+            },
+            {
+                "name": "Chicken roll",
+                "price": "130"
+            },
+            {
+                "name": "Barbeque glazed sausage roll",
+                "price": "149"
+            },
+            {
+                "name": "Chicken Salami and Panzanella salad roll",
+                "price": "229"
+            },
+            {
+                "name": "Prawns peri peri roll",
+                "price": "299"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Bowls",
+        "menus": [
+            {
+                "name": "Chicken rice",
+                "price": "149"
+            },
+            {
+                "name": "Paneer rice",
+                "price": "130"
+            },
+            {
+                "name": "Prawn rice bowl",
+                "price": "149"
+            },
+            {
+                "name": "Egg rice bowl",
+                "price": "229"
+            },
+            {
+                "name": "Vegetable rice bowl",
+                "price": "299"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Beverages",
+        "menus": [
+            {
+                "name": "Death by chocolate",
+                "price": "199"
+            },
+            {
+                "name": "Fresh lime soda",
+                "price": "119"
+            },
+            {
+                "name": "Mojito",
+                "price": "99"
+            },
+            {
+                "name": "Cold coffee",
+                "price": "99"
+            },
+            {
+                "name": "Pina Colada",
+                "price": "129"
+            }
+        ]
+        
+    },
+    {
+        "id": "4",
+        "category": "Deserts",
+        "menus": [
+            {
+                "name": "Chocolate volcano",
+                "price": "149"
+            },
+            {
+                "name": "Brownie with icecream and chocolate sauce",
+                "price": "99"
+            },
+            {
+                "name": "Tiramisu",
+                "price": "100"
+            },
+            {
+                "name": "Lemon Ricotta Cake",
+                "price": "99"
+            },
+            {
+                "name": "Chocolate Vanilla Panna Cotta Tart",
+                "price": "99"
+            }
+        ]
+        
+    }
+]
